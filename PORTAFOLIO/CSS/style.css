@@ -165,7 +165,7 @@ span{
 
 }
 .text-animation span::before{
-    content: "Estudiante desarrollo de software";
+    content: "La Mera Mera";
     color: var(--main-color);
     animation: words 20s infinite; 
 }
@@ -188,23 +188,23 @@ span{
 @keyframes words{
     0%,
     20%{
-        content: "Progrmadora";
+        content: "La Mera Mera";
     }
     21%,
     40%{
-        content: "Happy :)";
+        content: "Frontend Developer";
     }
     41%,
     60%{
-        content: "Amable y empática";
+        content: "Anlista de Datos";
     }
     61%,
     80%{
-        content: "Responsable";
+        content: "Un Debug en Proceso";
     }
     81%,
     100%{
-        content: "A mi manera";
+        content: "Creatividad por la Vida";
     }
 }
 @keyframes typing{
